@@ -4,7 +4,7 @@ import { Spin } from 'antd';
 const AdminLayout = () => {
     return (
         <>
-            admin layout here <Spin />
+            <p className="text-red-800"> admin layout here</p> <Spin />
         </>
     )
 }
